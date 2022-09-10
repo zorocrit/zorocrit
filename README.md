@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Data Structure
 - 💞️ I’m looking to collaborate on Database System and Artifical Inteligent
-- 📫 You can call send me E-mail zorocrit@hanyang.ac.kr
+- 📫 Please send me an E-mail in zorocrit@hanyang.ac.kr
 
 <!---
 zorocrit/zorocrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
