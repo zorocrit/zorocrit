@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dogyeom Kim
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Structure
+- 👀 I’m interested in Quantum Computer
+- 🌱 I’m currently learning quiskit
 - 💞️ I’m looking to collaborate on Database System and Artifical Inteligent
 - 📫 Please send me an E-mail in zorocrit@hanyang.ac.kr
 - 📫 Or dogyeom74@gmail.com
