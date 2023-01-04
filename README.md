@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Dogyeom Kim
-- 👀 I’m interested in Quantum Computer
-- 🌱 I’m currently learning quiskit
-- 💞️ I’m looking to collaborate on Database System and Artifical Inteligent
-- 📫 Please send me an E-mail in zorocrit@hanyang.ac.kr
-- 📫 Or dogyeom74@gmail.com
-
-<!---
-zorocrit/zorocrit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=java&logoColor=white">
