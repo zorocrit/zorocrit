@@ -21,8 +21,8 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Dogyeom Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorocrit)](https://github.com/zorocrit/github-readme-stats)
-  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zorocrit&repo=github-readme-stats)](https://github.com/zorocrit/github-readme-stats)
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zorocrit)](https://solved.ac/zorocrit)<br/>
