@@ -2,6 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Dogyeom's%20github&fontSize=90)
 
+<h1> Profile <h1>
+  <p align = "left"> -Dogyeom Kim </p>
+  <p align = "left"> -Hanyang University </p>
+  <p align = "left"> -Dept. of Computer Software Engineering </p>
+  <p align = "left"> -Studying in KIST Center for Quantum Information </p>
+
 <h1> Skill <h1>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
