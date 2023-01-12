@@ -18,7 +18,11 @@
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=Qiskit&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zorocrit&langs_count=8)](https://github.com/zorocrit/github-readme-stats)
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+
+[![zorocrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dogyeom Kim&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/zorocrit/github-readme-stats)
+</div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zorocrit)](https://solved.ac/zorocrit)<br/>
 </div>
