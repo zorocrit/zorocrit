@@ -74,10 +74,11 @@ Conference**\
 
 
 **2022 Spring Semester C Language Mentor in Algorithm Society "Aloha"**
+
 **2022 Fall Semester Python Main Mentor in Programming Society "FORIF"**
 
 
 # Other Experience
 
-**Network Manager Certificate, Level 2**\
+**Network Manager Certificate, Level 2**
 
