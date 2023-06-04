@@ -1,20 +1,10 @@
-::: center
-Dogyeom Kim\
+Dogyeom Kim
 
-::: multicols
-2
+Hanyang University
+Seoul, Korea
 
-::: flushleft
-Hanyang University\
-Seoul, Korea\
-:::
-
-::: flushright
-[]({url for any websites you want to link})https://github.com/zorocrit\
-[](mailto:{your email adress})dogyeom74@gmail.com
-:::
-:::
-:::
+https://github.com/zorocrit\
+dogyeom74@gmail.com
 
 # Education
 
@@ -53,10 +43,10 @@ Seoul, Korea\
 
 # Presentations
 
-::: itemize
+
 **Quantum Convolutional Neural Network, 2023 HAIKU AI Union
 Conference**\
-:::
+
 
 # Awards & Honors
 
@@ -82,14 +72,12 @@ Conference**\
 
 # Teaching Experience
 
-::: itemize
-**2022 Spring Semester C Language Mentor in Algorithm Society "Aloha"**\
-**2022 Fall Semester Python Main Mentor in Programming Society
-"FORIF"**\
-:::
+
+**2022 Spring Semester C Language Mentor in Algorithm Society "Aloha"**
+**2022 Fall Semester Python Main Mentor in Programming Society "FORIF"**
+
 
 # Other Experience
 
-::: itemize
 **Network Manager Certificate, Level 2**\
-:::
+
