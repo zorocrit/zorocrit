@@ -3,7 +3,8 @@ Dogyeom Kim
 Hanyang University
 Seoul, Korea
 
-https://github.com/zorocrit\
+https://github.com/zorocrit
+
 dogyeom74@gmail.com
 
 # Education
@@ -45,7 +46,7 @@ dogyeom74@gmail.com
 
 
 **Quantum Convolutional Neural Network, 2023 HAIKU AI Union
-Conference**\
+Conference**
 
 
 # Awards & Honors
