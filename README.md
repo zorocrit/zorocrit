@@ -1,11 +1,7 @@
-Dogyeom Kim
+# 김도겸(Dogyeom Kim)
 
-Hanyang University
-Seoul, Korea
+[![Dogyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=zorocrit)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github.com/zorocrit
-
-dogyeom74@gmail.com
 
 # Education
 
