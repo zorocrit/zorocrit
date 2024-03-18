@@ -4,7 +4,7 @@ Computer Software dept, Hanyang University(2021.03 ~ )
 
 Center for Quantum Information, KIST(2023.01.02 ~ 2023.06.16)
 
-[CV](https://github.com/zorocrit/zorocrit/blob/main/CV_2024_03_14.pdf)
+[CV](https://github.com/zorocrit/zorocrit/blob/main/CV_2024_03_14_.pdf)
 
 
 [CV]([CV_Dogyeom_24.03.18.pdf](https://github.com/zorocrit/zorocrit/files/14636848/CV_Dogyeom_24.03.18.pdf))
