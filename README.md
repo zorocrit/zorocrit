@@ -5,7 +5,7 @@
 
 ## Research Experience
 ### Intern in KIST(2023.01 ~ 2023.06)
-Quantum Information Research Group
+Quantum Information Research Group\n
 -Develop Simulation to Manipulate Single Qubit in NV Center Quantum Computer.
 -Research the Optimal Way to Initialize Quantum Circuits Using AI & Optimization Algorithms.
 
